@@ -1,9 +1,10 @@
 # Computadoras-Y-Programacion
-Nombre: Aaron Velasco Agustin
 
-Usuario: AaronVelasco93
+Nombre: Miguel Ángel Olvera Orozco
 
-Correo: aaronvelasco1993@outlook.com
+Usuario: Mmiguel-Aangel-Oolvera-Oorozco
+
+Correo: miguel.olveramc@gmail.com
 
 Asignatura: Computadoras y Programacion 
 
