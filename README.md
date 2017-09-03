@@ -2,7 +2,7 @@
 
 Nombre: Miguel Ángel Olvera Orozco
 
-Usuario: Miguel-Angel-Olvera-Orozco
+Usuario: Olvera-Orozco-Miguel-Angel
 
 Correo: miguel.olveramc@gmail.com
 
